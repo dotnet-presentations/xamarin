@@ -10,4 +10,4 @@ Xamarin.Essentials, a powerful cross-platform library that provides a clean and 
 
 ## Demo Walkthrough
 
-* [Video Walkthrough](https://channel9.msdn.com/Shows/XamarinShow/Snack-Pack-XamarinEssentials-Cross-Platform-APIs-for-Mobile-App)
+* [Video Walkthrough](https://channel9.msdn.com/Shows/XamarinShow/Snack-Pack-XamarinEssentials-Cross-Platform-APIs-for-Mobile-Apps)
