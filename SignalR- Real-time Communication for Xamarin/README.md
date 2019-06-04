@@ -7,7 +7,7 @@ Stop polling and enable bi-directional communication between your server and mob
 
 * [Install Visual Studio tools for Xamarin](https://docs.microsoft.com/visualstudio/cross-platform/setup-and-install)
 * [App Code - Simple SignalR Push](https://github.com/jamesmontemagno/app-SimpleSignalR)
-* [App Code - XamChat](github.com/jamesmontemagno/xamchat)
+* [App Code - XamChat](https://github.com/jamesmontemagno/xamchat)
 
 ## Demo Walkthrough
 
