@@ -16,4 +16,4 @@ Complete walkthrough of mobile development with Xamarin. This includes how Xamar
 
 ## Demo Walkthrough
 
-* Videos are embed into the power point (via YouTube). Feel free to reach out to James Montemagno at motz@microsoft.com for video download.
+* Videos are embed into the power point (via YouTube). You can download a local copy from [OneDrive](https://1drv.ms/u/s!AkidfXMX2kfFsDbScr_2oNOaIy8N?e=yDKJmp)
